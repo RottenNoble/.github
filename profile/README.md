@@ -1,4 +1,5 @@
-## Hi there 👋
+Rotten Noble is Game Development Team.
+We aimed prevent Heart Disease using Game.
 
 <!--
 
